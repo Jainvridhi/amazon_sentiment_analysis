@@ -80,7 +80,7 @@ The Streamlit app allows:
 - See confidence scores from each model
 - Visual sentiment breakdown
 
-  ![ReviewBot App](reviewbot app photo.jpeg)
+  ![ReviewBot App](ReviewBot_app.png)
 
 
 ---
